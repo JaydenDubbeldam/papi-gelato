@@ -64,6 +64,7 @@ def smaken():
         bakjehoorn()
     else:
         snapNiet()
+        smaken()
 
 def smakenGroot():
     for i in range(1, aantalbolletjes + 1):
