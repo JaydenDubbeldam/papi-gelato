@@ -118,4 +118,3 @@ def main():
     bolletjes()
 
 main()
-
